@@ -13,7 +13,13 @@ Trabalho desenvolvido durante as disciplinas de:
 #Gerência de Requisitos
 
 ## 1	Motivação e Propósito do Sistema 
-O HerbSys tem como objetivo atender a necessidade de gerenciamento do estoque do Distribuidor Independente da Hebalife, além disso ele ira ajudar o Distribuidor e gerenciar suas compras e vendas de produtos.
+O Distribuidor Independente da Herbalife Almir da Silva Dias possui um Espaço de Vida Saldavel(EVS) da Herbalife em Vila Velha, Espirito Santo aonde ele revende os produtos da Herbalife.
+
+Os clientes que visitam o EVS podem consumir o Shake da Herbalife preparado na hora além de poderem compra produtos da Herbalife.
+
+A Herbalife, apesar de ser uma empresa grande, não oferece aos seus distribuidores um sistema para gerenciamento do EVS. Por esse motivo Almir necessita de um sistema capaz de auxiliar
+no gerenciamento do EVS, realizando o controle de estoque, cadastro de clientes, alem de algumas outras funcionalidades.
+que gerencie as principais atividades do EVS, que consistem basicamente no controle.
 
 ## 2	Personas
 Distribuidores Independentes da Hebalife sem automatização de controle de clientes, produtos e vendas.
