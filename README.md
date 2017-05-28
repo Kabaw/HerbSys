@@ -26,11 +26,11 @@ Distribuidores Independentes da Hebalife sem automatização de controle de clie
 
 ## 3	Minimundo 
 
-Cada produto deverá pertence a um tipo (ex: sabonete, perfume, ...), um grupo (ex: “Nutrição Externa”, “Controle de peso”, ...) e pode ou não fazer parte de uma linha específica (ex: “Soft Green”, linha de produtos feitos a partir de ervas verdes). Além disso, cada produto deve ter um valor da revenda (o valor pago pelo cliente), um valor do distribuidor (o valor que o distribuidor paga para depois revender), peso ou volume, data de validade, além de outras características como sabor ou aroma.
+O sistema deverá pertir o cadastro dos varios produtos comercializados pela Herbalife. Cada produto deverá pertence a um tipo (ex: sabonete, perfume, ...), um grupo (ex: “Nutrição Externa”, “Controle de peso”, ...) e pode ou não fazer parte de uma linha específica (ex: “Soft Green”, linha de produtos feitos a partir de ervas verdes). Além disso, cada produto deve ter um valor da revenda (o valor pago pelo cliente), um valor do distribuidor (o valor que o distribuidor paga para depois revender), peso ou volume, data de validade, além de outras características como sabor ou aroma.
 
-De um cliente é necessário saber o cpf(ID), nome, endereço(CEP,Rua,Bairro,Cidade) e telefone. Também é preciso saber se ele já realizou a “Desafio 5 dias”, além de manter um histórico de quantas vezes que o cliente já fez o desafio. Também é importante ter um histórico de quais produtos ele já comprou, juntamente com a data da compra.
+O sistema precisa cadastras os dados dos clientes que vão ao EVS, sendo que, de um cliente é necessário saber o cpf(ID), nome, endereço(CEP,Rua,Bairro,Cidade) e telefone. Também é preciso saber se ele já realizou a “Desafio 5 dias”, além de manter um histórico de quantas vezes que o cliente já fez o desafio. Também é importante ter um histórico de quais produtos ele já comprou, juntamente com a data da compra.
 
-O sistema deve prover um controle total do estoque, possuindo um histórico de todas as entradas e saídas de produtos, bem como a quantidade dos mesmos.
+O sistema deve prover um controle total do estoque, possuindo um histórico de todas as entradas e saídas de produtos, bem como a quantidade e o valor dos mesmos.
 
 O sistema também deve ser capaz de gerenciar as compras e a vendas realizadas. De cada compra é necessário saber quais e quantos produtos foram comprados, a data da compra e a data que os produtos chegaram. Também é preciso saber o valor total da compra.
 
